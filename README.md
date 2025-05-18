@@ -20,3 +20,4 @@
 
 + [ ] Stat-Arb Model
   1. I'm currently researching, I don't know the true depth of this field so no concrete approach can currently be stated.
++ [ ] Asset Price WebSocket 
