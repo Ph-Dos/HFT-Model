@@ -13,4 +13,4 @@
 + Python, for high level program architecture.
 + Rust, for performance optimizations.
 + ==Statistical Arbitrage Model==
-+ Deep Learning Model, mabey I can make a new variant that is speedy 🧠
++ Deep Learning Model, mabey I can make a new variant that is speedy like Nivida NGP 🧠
