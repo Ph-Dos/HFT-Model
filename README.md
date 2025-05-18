@@ -2,7 +2,7 @@
 ## Overview
 
 ***What am I developing ?***
-+ I want to make a performace critical program that detect asset price inefficiencies in `[ Secound, Minute ]` time intervals.
++ I want to make a performace critical program that detects asset price inefficiencies in `[ Secound, Minute ]` time intervals.
 + Real time alpha acquisition and processing system that can add bias to detection system.
 + Mathmatical model that will be the foundtion of the detecion system. *( To the best of my ability )*
 + Real time asset price processing.
