@@ -1,4 +1,3 @@
-
 ## Overview
 
 ***What am I developing ?***
@@ -15,3 +14,9 @@
 + ==Statistical Arbitrage Model==
 + Deep Learning Model, mabey I can make a new variant that is speedy like Nivida NGP 🧠
 + Data pipeline, primative small scale data for alpha analysis. *( Maybe a modle trained on internet events to market movement correlations )*
+
+
+## Planned Features
+
++ [ ] Stat-Arb Model
+  1. I'm currently researching, I don't know the true depth of this field so no concrete approach can currently be stated.
